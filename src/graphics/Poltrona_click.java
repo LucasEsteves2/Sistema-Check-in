@@ -185,11 +185,7 @@ public class Poltrona_click extends MouseAdapter {
 			break;	
 			
 			
-			
-			
-			
-			default:
-				break;
+		
 			}
 			
 			

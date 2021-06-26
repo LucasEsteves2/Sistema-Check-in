@@ -191,17 +191,35 @@ public class CadastrarPassageiro extends JFrame {
 				String cpf = txtCpf.getText();
 
 				// se estiver vazio, vai mandar o usuario preenchera lgo
-				if ("".equals(nome))
+				if (txtNome.getText()==null|| txtNome.getText().trim().equals("")|| txtCpf.getText()==null|| txtCpf.getText().trim().equals(""))
 
 				{
-					JOptionPane.showMessageDialog(null, "Por favor Preencha o campo 'NOME'");
+					
+					//So pra dar a mensagem certa
+					if (txtCpf.getText()==null|| txtCpf.getText().trim().equals("") )
+					{
+						JOptionPane.showMessageDialog(null, "Por favor Preencha o campo 'CPF' ");
+					
+						txtCpf.setText("");
+					}
+					
+					if(txtNome.getText()==null|| txtNome.getText().trim().equals(""))
+					{
+						
+						JOptionPane.showMessageDialog(null, "Por favor Preencha o campo 'NOME'");
+						
+					
+						
+						txtNome.setText("");
+						
+					}
+					
 
 				}
 
-				if ("".equals(cpf)) {
-					JOptionPane.showMessageDialog(null, "Por favor Preencha o campo 'CPF' ");
 
-				} else {
+			
+				else {
 
 					// pegando valor do cbbox
 					String Origem = (String) cbOrigem.getSelectedItem();

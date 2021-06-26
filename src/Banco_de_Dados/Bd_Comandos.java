@@ -288,7 +288,10 @@ public class Bd_Comandos {
 			// Fim do teste antes do filme
 
 			JOptionPane.showMessageDialog(null, "Passageiro Cadastrado Com sucesso");
-			JOptionPane.showMessageDialog(null,"CODIGO DO BILHETE: " + temporaria.get(0).getIdbilhete() + " NÃO PERCA O BILHETE");
+
+			JOptionPane.showMessageDialog(null,"CODIGO LOCALIZADOR DO BILHETE: " + temporaria.get(0).getIdbilhete()," NÃO PERCA", JOptionPane.INFORMATION_MESSAGE);
+			
+	
 			
 			}
 
@@ -393,7 +396,7 @@ public class Bd_Comandos {
 		
 		try {
 			
-			stmt=con.prepareStatement("select poltrona from bilhetes where destino= ? and hpartida =? and poltrona =? ");
+			stmt=con.prepareStatement("select poltrona from bilhetes where destino= ?   and hpartida =? and poltrona =? and origem =? ");
 		
 		
 		
@@ -402,6 +405,7 @@ public class Bd_Comandos {
 			stmt.setString(2, banco.getPassageiro().get(0).getHora_partida());
 		
 			stmt.setInt(3, Num_Poltrona);
+			stmt.setString(4, banco.getPassageiro().get(0).getOrigem());
 			stmt.execute();
 			
 			rs=stmt.getResultSet();
@@ -428,12 +432,6 @@ public class Bd_Comandos {
 		}
 		return false;
 	
-		
-		
-		
-		
-		
-		
 		
 		
 		

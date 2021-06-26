@@ -182,74 +182,74 @@ public class Onibuss extends JFrame {
 		
 		Poltrona_Grapich2d p2 = new Poltrona_Grapich2d(Color.GREEN,Color.black, "02", "?");
 		p2.setBounds(72, 251, 45, 39);
-		getContentPane().add(p2).addMouseListener(new Poltrona_click(p2,this));;
+		getContentPane().add(p2).addMouseListener(new Poltrona_click(p2,this));
 		
 		
 		Poltrona_Grapich2d p3 = new Poltrona_Grapich2d(Color.GREEN,Color.black, "03", "?");
 		p3.setBounds(130, 251, 45, 39);
-		getContentPane().add(p3).addMouseListener(new Poltrona_click(p3,this));;
+		getContentPane().add(p3).addMouseListener(new Poltrona_click(p3,this));
 		
 		Poltrona_Grapich2d p4 = new Poltrona_Grapich2d(Color.GREEN,Color.black, "04", "?");
 		p4.setBounds(188, 251, 45, 39);
-		getContentPane().add(p4).addMouseListener(new Poltrona_click(p4,this));;
+		getContentPane().add(p4).addMouseListener(new Poltrona_click(p4,this));
 		
 		
 		Poltrona_Grapich2d p5 = new Poltrona_Grapich2d(Color.GREEN,Color.black, "05", "?");
 		p5.setBounds(248, 251, 45, 39);
-		getContentPane().add(p5).addMouseListener(new Poltrona_click(p5,this));;
+		getContentPane().add(p5).addMouseListener(new Poltrona_click(p5,this));
 		
 		
 		
 		Poltrona_Grapich2d p6 = new Poltrona_Grapich2d(Color.GREEN,Color.black, "06", "?");
 		p6.setBounds(306, 251, 45, 39);
-		getContentPane().add(p6).addMouseListener(new Poltrona_click(p6,this));;
+		getContentPane().add(p6).addMouseListener(new Poltrona_click(p6,this));
 		
 
 		Poltrona_Grapich2d p7 = new Poltrona_Grapich2d(Color.GREEN,Color.black, "07", "?");
 		p7.setBounds(367, 251, 45, 39);
-		getContentPane().add(p7).addMouseListener(new Poltrona_click(p7,this));;
+		getContentPane().add(p7).addMouseListener(new Poltrona_click(p7,this));
 		
 		
 		Poltrona_Grapich2d p8 = new Poltrona_Grapich2d(Color.GREEN,Color.black, "08", "?");
 		p8.setBounds(425, 251, 45, 39);
-		getContentPane().add(p8).addMouseListener(new Poltrona_click(p8,this));;
-		
+		getContentPane().add(p8).addMouseListener(new Poltrona_click(p8,this));
+	
 		
 		Poltrona_Grapich2d p9 = new Poltrona_Grapich2d(Color.GREEN,Color.black, "09", "?");
 		p9.setBounds(14, 302,45, 39);
-		getContentPane().add(p9).addMouseListener(new Poltrona_click(p9,this));;
+		getContentPane().add(p9).addMouseListener(new Poltrona_click(p9,this));
 		
 		Poltrona_Grapich2d p10 = new Poltrona_Grapich2d(Color.GREEN,Color.black, "10", "?");
 		p10.setBounds(72, 302, 45, 39);
-		getContentPane().add(p10).addMouseListener(new Poltrona_click(p10,this));;
+		getContentPane().add(p10).addMouseListener(new Poltrona_click(p10,this));
 		
 		Poltrona_Grapich2d p11 = new Poltrona_Grapich2d(Color.GREEN,Color.black, "11", "?");
 		p11.setBounds(130, 302, 45, 39);
-		getContentPane().add(p11).addMouseListener(new Poltrona_click(p11,this));;
-		
+		getContentPane().add(p11).addMouseListener(new Poltrona_click(p11,this));
+	
 		
 		Poltrona_Grapich2d p12 = new Poltrona_Grapich2d(Color.GREEN,Color.black, "12", "?");
 		p12.setBounds(188, 302, 45, 39);
-		getContentPane().add(p12).addMouseListener(new Poltrona_click(p12,this));;
+		getContentPane().add(p12).addMouseListener(new Poltrona_click(p12,this));
 		
 		
 		Poltrona_Grapich2d p13 = new Poltrona_Grapich2d(Color.GREEN,Color.black, "13", "?");
 		p13.setBounds(248, 302, 45, 39);
-		getContentPane().add(p13).addMouseListener(new Poltrona_click(p13,this));;
+		getContentPane().add(p13).addMouseListener(new Poltrona_click(p13,this));
 		
 		
 		Poltrona_Grapich2d p14 = new Poltrona_Grapich2d(Color.GREEN,Color.black, "14", "?");
 		p14.setBounds(306, 302, 45, 39);
-		getContentPane().add(p14).addMouseListener(new Poltrona_click(p14, this));;
+		getContentPane().add(p14).addMouseListener(new Poltrona_click(p14, this));
 		
 		
 		Poltrona_Grapich2d p15 = new Poltrona_Grapich2d(Color.GREEN,Color.black, "15", "?");
 		p15.setBounds(367, 302, 45, 39);
-		getContentPane().add(p15).addMouseListener(new Poltrona_click(p15,this));;
+		getContentPane().add(p15).addMouseListener(new Poltrona_click(p15,this));
 		
 		Poltrona_Grapich2d p16 = new Poltrona_Grapich2d(Color.GREEN,Color.black, "16", "?");
 		p16.setBounds(425, 302, 45, 39);
-		getContentPane().add(p16).addMouseListener(new Poltrona_click(p16,this));;
+		getContentPane().add(p16).addMouseListener(new Poltrona_click(p16,this));
 
 		//adicioanndo os escutadores
 		
@@ -282,7 +282,7 @@ public class Onibuss extends JFrame {
 		
 		JLabel lblimg = new JLabel("");
 		lblimg.setIcon(new ImageIcon(Onibuss.class.getResource("/aadads.png")));
-		lblimg.setBounds(134, 323, 180, 128);
+		lblimg.setBounds(142, 323, 180, 128);
 		contentpane3.add(lblimg);
 				
 		
@@ -439,10 +439,17 @@ public class Onibuss extends JFrame {
 			break;
 
 		default: // caso o usuario digite uma poltrona que nao existe
-			JOptionPane.showMessageDialog(null, "Poltrona Invalida!!");
-			JOptionPane.showMessageDialog(null, "Não foi possivel realizar o Check-in.");
+		
+			
+			JOptionPane.showMessageDialog(null, "Poltrona Invalida!!",
+					"POLTRONA INVALIDA!!" , JOptionPane.WARNING_MESSAGE);
+			
 
-			TelaPrincipal(con);
+			JOptionPane.showMessageDialog(null, "Por Favor, informe uma poltrona valida",
+					"POLTRONA INVALIDA!!" , JOptionPane.WARNING_MESSAGE);
+			
+
+	
 
 		}
 
@@ -470,7 +477,9 @@ public class Onibuss extends JFrame {
 
 					JOptionPane.showMessageDialog(null, "Essa Poltrona ja foi Reservada pelo Passageiro " + Nome_passageiro, 
 						"POLTRONA OCUPADA!!" , JOptionPane.WARNING_MESSAGE);
-					TelaPrincipal(con); // Volta para a tela inicial
+			
+					
+					
 
 				}
 			}
@@ -496,8 +505,11 @@ public class Onibuss extends JFrame {
 				cadeira.setBackground(Color.RED);
 				cadeira.CadeiraOcupada(Color.RED);
 
+				JOptionPane.showMessageDialog(null, "Poltrona Reservada");
+				
+				
 				JOptionPane.showMessageDialog(null, "Check-in realizado com sucesso.!!");
-				JOptionPane.showMessageDialog(null, "Voce tbm pode ALOCAR uma cadeira através do CLICK (basta clicar na cadeira desejada)");	
+					
 
 				TelaPrincipal(con); // Volta para a tela inicial
 
@@ -523,7 +535,7 @@ public void botaoAlocaPassageiro(Poltrona_Grapich2d btnPoltrona, int poltrona) {
 		if (passageiro.getPoltrona() == poltrona) {
 			String Nome_passageiro = passageiro.getNome();
 			
-			JOptionPane.showMessageDialog(null, "Essa Poltrona ja foi Reservada pelo Passageiro " + Nome_passageiro, 
+			JOptionPane.showMessageDialog(null, "A poltrona selecionada já está RESERVADA para o Passageiro " + Nome_passageiro, 
 					"POLTRONA OCUPADA!!" , JOptionPane.WARNING_MESSAGE);
 			
 			btnPoltrona.setBackground(Color.RED);
@@ -548,14 +560,13 @@ public void botaoAlocaPassageiro(Poltrona_Grapich2d btnPoltrona, int poltrona) {
 	{
 		
 		//Muda a cor para mostar que esta selecionada e dar um efeito
-		btnPoltrona.setBackground(new Color(0, 255, 255));
-		btnPoltrona.c1 = new Color(0, 255, 255);
-
+			
+		
 
 		
 		int i = JOptionPane.showConfirmDialog(
 		        null, 
-		        "Deseja Alocar essa poltrona?",
+		        "Deseja reservar a poltrona selecionada ?",
 		        "Poltrona",
 		        JOptionPane.OK_CANCEL_OPTION
 		        );
@@ -587,10 +598,14 @@ public void botaoAlocaPassageiro(Poltrona_Grapich2d btnPoltrona, int poltrona) {
 			btnPoltrona.setBackground(Color.GREEN);
 			btnPoltrona.c1=Color.GREEN;;
 
+			
 	
 	
 	
 }
+		//Volta a cor e resolve o bug se clicar no x
+		btnPoltrona.setBackground(Color.green);
+		btnPoltrona.c1 = Color.green;
 
 	}
 }
