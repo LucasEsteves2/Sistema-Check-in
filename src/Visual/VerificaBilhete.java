@@ -48,6 +48,11 @@ public class VerificaBilhete extends JFrame {
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
+		
+		JLabel lblTelaInicial = new JLabel("");
+		lblTelaInicial.setIcon(new ImageIcon(VerificaBilhete.class.getResource("/previous (2).png")));
+		lblTelaInicial.setBounds(15, 365, 37, 33);
+		contentPane.add(lblTelaInicial);
 
 		JLabel lblCodigo = new JLabel("Insira o Codigo localizador do bilhete");
 		lblCodigo.setFont(new Font("Arial", Font.PLAIN, 15));
@@ -195,6 +200,11 @@ public class VerificaBilhete extends JFrame {
 		lblVoltar.setVisible(false);
 		lblDeletar.setVisible(false);
 
+		
+		//botao voltar 1
+		TelaInicial(lblTelaInicial, con);
+		
+		
 		// evento click bottão proximo
 
 		btnproximo.addActionListener(new ActionListener() {
@@ -259,7 +269,7 @@ public class VerificaBilhete extends JFrame {
 									scrollPane_1, lblpassagem, lblpassagem, lblNome, lblcpf, lblDestinoo,
 									lblHora_embarque, lblHora_partida, lblOrigem, pnlCor, btnproximo, imgRelogio,
 									lblHora_atual);
-							
+							lblTelaInicial.setVisible(false);
 							lblVoltar.setVisible(true);
 							lblPassageiro.setVisible(true);
 
@@ -475,7 +485,7 @@ public class VerificaBilhete extends JFrame {
 	public void TelaPrincipal(Connection con) {
 
 		// chama a tela principal novamente
-		TelaInicial Inicio = new TelaInicial(con);
+		VerificaBilhete Inicio = new VerificaBilhete(con);
 		Inicio.setLocationRelativeTo(null);
 		Inicio.setVisible(true);
 
@@ -533,6 +543,11 @@ public class VerificaBilhete extends JFrame {
 
 	}
 
+	
+	
+	
+	
+	
 //Metodo responsavel por chamar o botao VOLTAR  quando ele for clicado
 	public void ChamaBotaoVoltar(JLabel lblVoltar, Connection con) {
 
@@ -557,4 +572,34 @@ public class VerificaBilhete extends JFrame {
 		this.temporario = temporario;
 	}
 
+
+
+	public void TelaInicial(JLabel lblVoltar, Connection con) {
+
+		// botão voltar
+
+		lblVoltar.addMouseListener(new MouseAdapter() {
+			public void mouseClicked(MouseEvent arg0) {
+
+				// chama a tela principal novamente
+				
+				Tela1(con);
+				
+			}
+		});
+
+	}
+
+
+
+
+
+
+
 }
+
+
+
+
+
+
