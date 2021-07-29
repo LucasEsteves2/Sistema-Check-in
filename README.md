@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="">
-    <img width="300px" src="./assets/logo_sus.png" alt="">
+    <img width="300px" src="https://github.com/luqui2/Sistema-para-Viagens-/blob/main/src/imagens/settings.gif" alt="">
    </a>
 </p>
 
