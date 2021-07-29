@@ -1,5 +1,5 @@
 <div align="center">
-<i><h6>Projeto para avaliação de Prj, requisito parcial da disciplina Programação, do curso Tecnologia da Informação e Comunicação-FAETERJ.
+<i><h6>Projeto para avaliação de Prj,do curso Tecnologia da Informação e Comunicação-FAETERJ.
 </div>
 <a name="back-to-top">
 
@@ -42,9 +42,9 @@
 ##     
 
   
-## <img height="45px" align="center" src="https://github.com/marcosbarker/serratec.residencia/blob/main/assets/stockrocketgif.gif">   Desenvolvedor:
+## <img height="45px" align="center" src="https://github.com/luqui2/Sistema-para-Viagens-/blob/main/src/imagens/foguete.gif">   Desenvolvedor:
 - [**Lucas Esteves de Abreu Rodrigues**]   [(*Linkedin*)](https://www.linkedin.com/in/lucas-esteves-de-abreu-rodrigues-848b841ba/)
 -
 <br> 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Back to top**](#back-to-top)⬆️
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Voltar ao Topo**](#back-to-top)⬆️
