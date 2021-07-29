@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="">
-    <img width="300px" src="https://github.com/luqui2/Sistema-Check-in/blob/main/src/imagens/CheckinNator%20(1).gif" alt="">
+    <img width="300px" src="" alt="">
    </a>
 </p>
 
@@ -17,7 +17,7 @@
   </br>
 
 <div align="center">
-  <img width="700px" src="        ">
+  <img width="700px" src="   https://github.com/luqui2/Sistema-Check-in/blob/main/src/imagens/CheckinNator%20(1).gif     ">
 </div>
 <br>
 
