@@ -21,7 +21,7 @@
 </div>
 <br>
 
-<img height="45px" align="center" src="https://github.com/luqui2/Sistema-para-Viagens-/blob/main/src/imagens/foguete.gif"> Projeto
+## <img height="45px" align="center" src="https://github.com/luqui2/Sistema-para-Viagens-/blob/main/src/imagens/foguete.gif">   Desenvolvedor:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sistema de  Viagens**  
 
 <details>
