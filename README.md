@@ -17,7 +17,7 @@
   </br>
 
 <div align="center">
-  <img width="700px" src="https://github.com/luqui2/Sistema-Check-in/blob/main/src/imagens/apresentacao.gif">
+  <img width="700px" src="https://github.com/luqui2/Sistema-Check-in/blob/main/src/imagens/Apresentacao.gif">
 </div>
 <br>
 
