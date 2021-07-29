@@ -11,7 +11,7 @@
 
  <p>
     <h2 align="center">
-  Sistema Check-in (Check-iNATOR)
+  Sistema Check-in (CHECK-INATOR)
   </h2>
   </p> 
   </br>
@@ -21,19 +21,19 @@
 </div>
 <br>
 
-## ⚕️    Projeto
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Consultório Médico**  
+## 🚍🎡    Projeto
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sistema de  Viagens**  
 
 <details>
-  <summary>✔️ Pré-requisitos do trabalho:</summary>
+  <summary>✔️ Funcionalidades:</summary>
       <p align="justify">
-      - Agendar consulta<br>
-      - Desmarcar consulta<br>
-      - Consultar agenda do médico<br>
+      - Cadastrar Passageiro<br>
+      - Agendar Viagem    <br>
+      - Desmarcar viagem<br>
       </p>
   </details>
 
-- *Armazenamento dos dados feito com API Web Window.localStorage*
+- *Armazenamento dos dados feito com banco de dados PostgreSQL e subido para o heroku*
 
 ## 🌐    Site
 - [SUS Agendamento](https://sus-agendamento.vercel.app/)
