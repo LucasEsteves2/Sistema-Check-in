@@ -17,7 +17,7 @@
   </br>
 
 <div align="center">
-  <img width="700px" src="./assets/gif/sus-agendamento.gif">
+  <img width="700px" src="        ">
 </div>
 <br>
 
