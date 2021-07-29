@@ -36,11 +36,15 @@
       </p>
   </details>
 
-- *Armazenamento dos dados feito com banco de dados PostgreSQL e subido para o heroku*
+- *Armazenamento dos dados feito com banco de dados PostgreSQL e Hospedado no site HEROKU*
 
+
+## 🌐    
 
   
-## <img height="45px" align="center" src="https://github.com/marcosbarker/serratec.residencia/blob/main/assets/stockrocketgif.gif">    Desenvolvedor
-- [**Lucas Esteves**]
+## <img height="45px" align="center" src="https://github.com/marcosbarker/serratec.residencia/blob/main/assets/stockrocketgif.gif">   Desenvolvedor:
+- [**Lucas Esteves de Abreu Rodrigues**]   [(*Linkedin*)](https://www.linkedin.com/in/lucas-esteves-de-abreu-rodrigues-848b841ba/)
+-
+<br> 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Back to top**](#back-to-top)⬆️
