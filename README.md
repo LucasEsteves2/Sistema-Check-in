@@ -39,7 +39,7 @@
 - *Armazenamento dos dados feito com banco de dados PostgreSQL e Hospedado no site HEROKU*
 
 
-## 🌐    
+##     
 
   
 ## <img height="45px" align="center" src="https://github.com/marcosbarker/serratec.residencia/blob/main/assets/stockrocketgif.gif">   Desenvolvedor:
