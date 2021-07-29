@@ -11,8 +11,8 @@
 
  <p>
     <h2 align="center">
-    SUS Agendamento
-    </h2>
+  Sistema Check-in (Check-iNATOR)
+  </h2>
   </p> 
   </br>
 
