@@ -1,5 +1,5 @@
 <div align="center">
-<i><h6>Projeto para avaliação de Prj,do curso Tecnologia da Informação e Comunicação-FAETERJ.
+<i><h6>Projeto desenvolvido para avaliação de Prj (programação em java) referente ao curso: Tecnologia da Informação e Comunicação-FAETERJ.
 </div>
 <a name="back-to-top">
 
