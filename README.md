@@ -36,14 +36,23 @@
       </p>
   </details>
 
-- *Armazenamento dos dados feito com banco de dados PostgreSQL e Hospedado no site HEROKU*
 
 
 ##     
 
   
-## <img height="45px" align="center" src="https://github.com/luqui2/Sistema-para-Viagens-/blob/main/src/imagens/set.gif">   Desenvolvedor:
-- [**Lucas Esteves de Abreu Rodrigues**]   [(*Linkedin*)](https://www.linkedin.com/in/lucas-esteves-de-abreu-rodrigues-848b841ba/)
+ 
+## <img height="45px" align="center" src="https://github.com/luqui2/Sistema-para-Viagens-/blob/main/src/imagens/set.gif">   Desenvolvimento:
+- Desenvolvedor: [**Lucas Esteves de Abreu Rodrigues**] - [(*Linkedin*)](https://www.linkedin.com/in/lucas-esteves-de-abreu-rodrigues-848b841ba/)
+  <br>
+  - Sistema desenvolvido em Java utilizando swing
+  - Banco de Dados: PostgreSQL
+  - IDE: Eclipse - JRE 1.18.0
+ - *Armazenamento dos dados feito com banco de dados PostgreSQL e Hospedado no site HEROKU*
+
+ 
 <br> 
+
+</p>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Voltar ao Topo**](#back-to-top)⬆️
